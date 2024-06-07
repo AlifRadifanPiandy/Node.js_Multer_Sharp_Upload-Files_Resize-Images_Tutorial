@@ -1,0 +1,27 @@
+{
+  "name": "node.js-multer-sharp-upload-files-resize-images-tutorial",
+  "version": "1.0.0",
+  "description": "Node.js Multer Sharp Upload Files Resize Images Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "node.js",
+    "multer",
+    "sharp",
+    "upload",
+    "files",
+    "resize",
+    "images",
+    "tutorial"
+  ],
+  "author": "AlifRadifanPiandy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.33.4"
+  }
+}
